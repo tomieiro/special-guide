@@ -1,2 +1,2 @@
 # special-guide
-Repositorio colaborativo com o Furby
+Repositorio contendo um curso de introducao a programacao
